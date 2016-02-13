@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Family Listview</string>
+    <string-array name="member_names">
+        <item>Hrudaya Ranjan Das</item>
+        <item>Subasini Das</item>
+        <item>Samiksha Das</item>
+        <item>Akanksha Das</item>
+        <item>Sarmilee Patnaik</item>
+    </string-array>
+    <string-array name="Relations">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Self</item>
+        <item>Sister</item>
+        <item>Cousin</item>
+    </string-array>
+</resources>
